@@ -14,7 +14,6 @@ namespace Subtitle_Editor
         [STAThread]
         static void Main()
         {
-            //Aaaaa
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new mainForm());
