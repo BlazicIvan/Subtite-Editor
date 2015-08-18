@@ -10,3 +10,6 @@ C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitl
 D:\Documents\Visual Studio 2013\Projects\Subtitle Editor\Subtitle Editor\bin\Debug\Subtitle Editor.exe.config
 D:\Documents\Visual Studio 2013\Projects\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.exe
 D:\Documents\Visual Studio 2013\Projects\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.pdb
+C:\Users\Milos\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\bin\Debug\Subtitle Editor.exe.config
+C:\Users\Milos\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.exe
+C:\Users\Milos\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.pdb
