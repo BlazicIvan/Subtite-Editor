@@ -1,0 +1,12 @@
+C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\bin\Debug\Subtitle Editor.exe.config
+C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\bin\Debug\Subtitle Editor.exe
+C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\bin\Debug\Subtitle Editor.pdb
+C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle_Editor.Properties.Resources.resources
+C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.csproj.GenerateResource.Cache
+C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.exe
+C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.pdb
+C:\Users\Ivan\OneDrive\ETF\ASP\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle_Editor.mainForm.resources
+D:\Documents\Visual Studio 2013\Projects\Subtitle Editor\Subtitle Editor\bin\Debug\Subtitle Editor.exe.config
+D:\Documents\Visual Studio 2013\Projects\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.exe
+D:\Documents\Visual Studio 2013\Projects\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.pdb
