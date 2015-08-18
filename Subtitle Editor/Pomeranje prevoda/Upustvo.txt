@@ -1,0 +1,8 @@
+Ime ulazne datoteke mora biti "Primer.srt"
+
+Ime izlazne (obradjene) datoteke je "Izlaz.srt"
+
+Za pomeraj je moguce uzeti proizvoljan realan broj (predstavlja broj sekundi)
+
+Ako se prevod pojavljuje npr. 5 sekundi pre nego sto bi trebalo, za pomeraj unesite 5.
+Ako se prevod pojavljuje npr. 7,5 sekundi kasnije, za pomeraj unesite -7.5
