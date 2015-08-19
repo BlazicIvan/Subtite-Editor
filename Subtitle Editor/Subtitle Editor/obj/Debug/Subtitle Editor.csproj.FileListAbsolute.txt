@@ -19,3 +19,12 @@ C:\Users\Milos\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\o
 C:\Users\Milos\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle_Editor.mainForm.resources
 C:\Users\Milos\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle_Editor.Properties.Resources.resources
 C:\Users\Milos\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.csproj.GenerateResource.Cache
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\bin\Debug\Subtitle Editor.exe.config
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.exe
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.pdb
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\bin\Debug\Subtitle Editor.exe
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\bin\Debug\Subtitle Editor.pdb
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.csprojResolveAssemblyReference.cache
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle_Editor.mainForm.resources
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle_Editor.Properties.Resources.resources
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.csproj.GenerateResource.Cache

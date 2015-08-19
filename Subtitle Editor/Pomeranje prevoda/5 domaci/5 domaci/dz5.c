@@ -8,7 +8,8 @@ void main(int argc, char* argv[])
 
 	if ((ul = fopen(argv[2], "r")) == NULL)
 	{
-		//printf("Greska pri otvaranju ulazne datoteke!\n");
+		printf("Greska pri otvaranju ulazne datoteke!\n");
+		system("PAUSE");
 		exit(1);
 	}
 
@@ -17,14 +18,16 @@ void main(int argc, char* argv[])
 	//zatvaranje datoteke
 	if (fclose(ul) == EOF)
 	{
-		//printf("Greska pri zatvaranju ulazne datoteke!\n");
+		printf("Greska pri zatvaranju ulazne datoteke!\n");
+		system("PAUSE");
 		glava = ObrisiListu(glava);
 		exit(5);
 	}
 
 	if ((iz = fopen(argv[2], "w")) == NULL)
 	{
-		//printf("Greska pri otvaranju izlazne datoteke!\n");
+		printf("Greska pri otvaranju izlazne datoteke!\n");
+		system("PAUSE");
 		glava = ObrisiListu(glava);
 		exit(2);
 	}
@@ -33,7 +36,8 @@ void main(int argc, char* argv[])
 
 	if (fclose(iz) == EOF)
 	{
-		//printf("Greska pri zatvaranju izlazne datoteke!\n");
+		printf("Greska pri zatvaranju izlazne datoteke!\n");
+		system("PAUSE");
 		glava = ObrisiListu(glava);
 		exit(5);
 	}
@@ -41,6 +45,6 @@ void main(int argc, char* argv[])
 	glava = ObrisiListu(glava);    /*brisanje liste*/
 	
 
-	//printf("\nObrada je uspesno zavrsena!\n\n");
-
+	printf("\nObrada je uspesno zavrsena!\n\n");
+	system("PAUSE");
 }
