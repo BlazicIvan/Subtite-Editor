@@ -4,23 +4,43 @@ void main(int argc, char* argv[])
 {
 	FILE *ul, *iz;
 	pokT *glava = NULL;
-	char ulazD[150], izlazD[100];
-	double uk;
+	double uk = (double)atof(argv[1]); //vrednost pomeraja
 
-	strcpy(ulazD,"Primer.srt");
-	strcpy(izlazD, "Izlaz.srt");
+	if ((ul = fopen(argv[2], "r")) == NULL)
+	{
+		//printf("Greska pri otvaranju ulazne datoteke!\n");
+		exit(1);
+	}
 
-	// PROVERA ISPRAVNOSTI ARGUMENATA
-	Provera(ulazD, izlazD, &ul, &iz);
-	//UNOS,ISPIS,BRISANJE
-	printf("Unesite vrednost pomeraja:\n");
-	scanf("%lf", &uk);
+	glava = Unos(glava, ul);    /*unos datoteke u listu*/
 
-	glava = Unos(glava, ul);
-	IspisDat(glava, uk, iz);
-	glava=ObrisiListu(glava);
+	//zatvaranje datoteke
+	if (fclose(ul) == EOF)
+	{
+		//printf("Greska pri zatvaranju ulazne datoteke!\n");
+		glava = ObrisiListu(glava);
+		exit(5);
+	}
+
+	if ((iz = fopen(argv[2], "w")) == NULL)
+	{
+		//printf("Greska pri otvaranju izlazne datoteke!\n");
+		glava = ObrisiListu(glava);
+		exit(2);
+	}
+
+	IspisDat(glava, uk, iz);   /*upis obradjenog titla u datoteku*/
+
+	if (fclose(iz) == EOF)
+	{
+		//printf("Greska pri zatvaranju izlazne datoteke!\n");
+		glava = ObrisiListu(glava);
+		exit(5);
+	}
+
+	glava = ObrisiListu(glava);    /*brisanje liste*/
 	
-	printf("\nObrada je uspesno zavrsena!\n\n");
 
-	system("PAUSE");
+	//printf("\nObrada je uspesno zavrsena!\n\n");
+
 }

@@ -1,1534 +1,1535 @@
 1
-00:02:30,942 --> 00:02:35,328
+00:02:32,997 --> 00:02:37,383
 <i>Pazite! -Vatra! Vatra!
 
 2
-00:02:59,937 --> 00:03:04,807
+00:03:01,992 --> 00:03:06,862
 Dvadesetorica, možda manje. Bilo je
 gotovo prije nego je itko primijetio.
 
 3
-00:03:04,810 --> 00:03:09,028
+00:03:06,865 --> 00:03:11,083
 Spalili su nam zalihe hrane,
 sve opsadno oružje je uništeno.
 
 4
-00:03:09,063 --> 00:03:13,567
+00:03:11,118 --> 00:03:15,622
 Deseci šatora su... -Konji?
 -Još brojimo, ali stotine su mrtvi.
 
 5
-00:03:13,617 --> 00:03:17,320
+00:03:15,672 --> 00:03:19,375
 Dvadesetorica uðu u kamp bez
 da jedan stražar digne uzbunu?
 
 6
-00:03:17,322 --> 00:03:19,872
+00:03:19,377 --> 00:03:21,927
 Sjevernjaci poznaju svoju zemlju.
 
 7
-00:03:19,873 --> 00:03:23,242
+00:03:21,928 --> 00:03:25,297
 Baci sinoænje stražare u okove.
 Ili su zaspali ili su urotnici.
 
 8
-00:03:23,243 --> 00:03:26,830
+00:03:25,298 --> 00:03:28,885
 Otkrij istinu i onda ih
 objesi. -Vaša Milosti.
 
 9
-00:03:26,831 --> 00:03:30,134
+00:03:28,886 --> 00:03:32,189
 Osim ako ne zatopli,
 ne možemo nastaviti za Oštrozimlje,
 
 10
-00:03:30,134 --> 00:03:34,587
+00:03:32,189 --> 00:03:36,642
 a nemamo dovoljno hrane za povratak
 u Crni zamak. -Ne vraæamo se.
 
 11
-00:03:34,639 --> 00:03:38,057
+00:03:36,694 --> 00:03:40,112
 Oprostite, Milosti, nikad nisam
 tvrdio da sam vojni struènjak,
 
 12
-00:03:38,058 --> 00:03:42,145
+00:03:40,113 --> 00:03:44,200
 ali ako ne možemo
 niti naprijed niti natrag...
 
 13
-00:03:54,908 --> 00:03:58,527
+00:03:56,963 --> 00:04:00,582
 Mrtvi konji æe nam poslužiti kao hrana.
 
 14
-00:04:38,235 --> 00:04:40,774
+00:04:40,290 --> 00:04:42,829
 <i>Stoj!
 
 15
-00:05:28,286 --> 00:05:31,420
+00:05:30,341 --> 00:05:33,475
 Otvori vrata.
 
 16
-00:05:45,970 --> 00:05:51,225
+00:05:48,025 --> 00:05:53,280
 Bio je neuspjeh. -Nije.
 
 17
-00:05:51,276 --> 00:05:54,476
+00:05:53,331 --> 00:05:56,531
 Otišao sam ih spasiti
 i iznevjerio sam ih.
 
 18
-00:05:55,279 --> 00:05:58,731
+00:05:57,334 --> 00:06:00,786
 Nisi iznevjerio njega. Ili njega.
 
 19
-00:05:58,733 --> 00:06:01,567
+00:06:00,788 --> 00:06:03,622
 Ili nju.
 
 20
-00:06:01,569 --> 00:06:06,038
+00:06:03,624 --> 00:06:08,093
 Svatko od njih je živ
 zbog tebe i nikog drugog.
 
 21
-00:06:06,490 --> 00:06:09,992
+00:06:08,545 --> 00:06:12,047
 A mislim da to nisu zaboravili.
 
 22
-00:07:03,014 --> 00:07:08,851
+00:07:05,069 --> 00:07:10,906
 Imaš dobro srce, Jone Snow.
 Sve æe nas stajati glave.
 
 23
-00:07:14,975 --> 00:07:17,810
+00:07:17,030 --> 00:07:19,865
 S puta.
 
 24
-00:07:42,920 --> 00:07:46,757
+00:07:44,975 --> 00:07:48,812
 Zvali ste me, Vaša Milosti? -Naði
 si par zdravih konja i vitezove.
 
 25
-00:07:46,757 --> 00:07:51,011
+00:07:48,812 --> 00:07:53,066
 Ideš u Crni zamak. Reci Vrhovnom
 zapovjedniku da kralj nareðuje
 
 26
-00:07:51,062 --> 00:07:55,231
+00:07:53,117 --> 00:07:57,286
 da pošalje hranu, zalihe i svježe
 konje. A kad preuzmem prijestolje,
 
 27
-00:07:55,266 --> 00:07:58,269
+00:07:57,321 --> 00:08:00,324
 Noæna straža æe dobiti
 ljudi koliko god treba.
 
 28
-00:07:58,269 --> 00:08:02,605
+00:08:00,324 --> 00:08:04,660
 Dobit æe ljude za svih
 19 utvrda na Zidu ako želi.
 
 29
-00:08:03,908 --> 00:08:08,512
+00:08:05,963 --> 00:08:10,567
 Vaša Milosti, imenovali ste
 me vašim Namjesnikom. -Jesam.
 
 30
-00:08:08,545 --> 00:08:11,949
+00:08:10,600 --> 00:08:14,004
 Namjesnik nikad ne smije
 napustiti kralja, posebice u ratu.
 
 31
-00:08:11,951 --> 00:08:16,252
+00:08:14,006 --> 00:08:18,307
 Ne napuštaš me, izvršavaš naredbu.
 -I djeèak može isporuèiti ovu poruku.
 
 32
-00:08:16,286 --> 00:08:21,091
+00:08:18,341 --> 00:08:23,146
 A ako ga Jon Snow odbije,
 što æe mu djeèak reæi?
 
 33
-00:08:21,125 --> 00:08:23,293
+00:08:23,180 --> 00:08:25,348
 Nisam te imenovao
 zbog vojne struènosti.
 
 34
-00:08:23,295 --> 00:08:26,795
+00:08:25,350 --> 00:08:28,850
 Idi za Crni zamak i
 ne vraæaj se praznih ruku.
 
 35
-00:08:32,552 --> 00:08:36,755
+00:08:34,607 --> 00:08:38,810
 Vaša Milosti, možda bi kraljica Selyse
 i princeza Shireen mogle poæi sa mnom.
 
 36
-00:08:36,756 --> 00:08:40,644
+00:08:38,811 --> 00:08:42,699
 Moja obitelj ostaje uz mene.
 -Pustite da bar povedem Shireen.
 
 37
-00:08:40,695 --> 00:08:45,649
+00:08:42,750 --> 00:08:47,704
 Opsada nije mjesto za djevojèicu.
 -Moja obitelj ostaje uz mene.
 
 38
-00:09:21,735 --> 00:09:25,489
+00:09:23,790 --> 00:09:27,544
 A što je ovo?
 -Ples zmajeva, istinita prièa.
 
 39
-00:09:25,490 --> 00:09:30,277
+00:09:27,545 --> 00:09:32,332
 Napisao ju je veliki meštar
 Munkun. -To zvuèi kao prava prièa.
 
 40
-00:09:30,327 --> 00:09:32,995
+00:09:32,382 --> 00:09:35,050
 Ser Byron Swann je
 htio ubiti zmaja Vhagara.
 
 41
-00:09:32,996 --> 00:09:35,999
+00:09:35,051 --> 00:09:38,054
 Tjedan dana je laštio štit
 da bude poput zrcala.
 
 42
-00:09:36,000 --> 00:09:40,120
+00:09:38,055 --> 00:09:42,175
 Sakrio se iza njega nadajuæi se
 da æe zmaj vidjeti samo svoj odraz.
 
 43
-00:09:40,120 --> 00:09:43,755
+00:09:42,175 --> 00:09:45,810
 Ali zmaj je vidio glupog èovjeka
 koji se skriva iza svog štita.
 
 44
-00:09:43,756 --> 00:09:45,924
+00:09:45,811 --> 00:09:47,979
 I spalio ga do kostiju.
 
 45
-00:09:46,177 --> 00:09:51,380
+00:09:48,232 --> 00:09:53,435
 I tako je završila karijera Ser
 Byrona Swanna kao ubojice zmajeva.
 
 46
-00:09:53,717 --> 00:09:57,019
+00:09:55,772 --> 00:09:59,074
 Napravio sam vam nešto, princezo.
 
 47
-00:10:02,559 --> 00:10:05,861
+00:10:04,614 --> 00:10:07,916
 Sviða li vam se? -Prekrasan je.
 
 48
-00:10:05,863 --> 00:10:08,566
+00:10:07,918 --> 00:10:10,621
 Hvala. -Nema na èemu.
 
 49
-00:10:08,567 --> 00:10:12,985
+00:10:10,622 --> 00:10:15,040
 Hoæeš li mi izraditi i košutu?
 Da ima društvo? -Naravno.
 
 50
-00:10:14,455 --> 00:10:17,072
+00:10:16,510 --> 00:10:19,127
 Ali zašto sam dobila dar?
 
 51
-00:10:17,658 --> 00:10:20,158
+00:10:19,713 --> 00:10:22,213
 Jer ga zaslužujete.
 
 52
-00:10:20,878 --> 00:10:24,380
+00:10:22,933 --> 00:10:26,435
 Moj sin me uvijek
 tjerao da nauèim èitati.
 
 53
-00:10:24,381 --> 00:10:27,716
+00:10:26,436 --> 00:10:29,771
 Bogovi, kako sam samo tvrdoglav bio.
 
 54
-00:10:28,052 --> 00:10:32,221
+00:10:30,107 --> 00:10:34,276
 Nje mi trebalo do tada pa sam
 mislio da tako mogu i do groba.
 
 55
-00:10:34,475 --> 00:10:37,426
+00:10:36,530 --> 00:10:39,481
 Da sam ga bar poslušao.
 
 56
-00:10:37,928 --> 00:10:41,263
+00:10:39,983 --> 00:10:43,318
 Ovo je moj jadan
 pokušaj da vam zahvalim.
 
 57
-00:10:43,900 --> 00:10:47,068
+00:10:45,955 --> 00:10:49,123
 Što ste me nauèili da budem odrastao.
 
 58
-00:10:48,740 --> 00:10:51,575
+00:10:50,795 --> 00:10:53,630
 Neæe me biti par dana, princezo.
 
 59
-00:10:51,576 --> 00:10:56,529
+00:10:53,631 --> 00:10:58,584
 I želim znati sve o "Plesu zmajeva"
 kad se vratim. -Sam æeš proèitati.
 
 60
-00:11:18,052 --> 00:11:22,105
+00:11:20,107 --> 00:11:24,160
 Prinèe Doran. -Oprostite.
 Poèeli smo bez vas.
 
 61
-00:11:22,974 --> 00:11:27,394
+00:11:25,029 --> 00:11:29,449
 Molim vas, sjednite.
 -Princezo Myrcella.
 
 62
-00:11:27,477 --> 00:11:33,283
+00:11:29,532 --> 00:11:35,338
 Ujaèe. -Kakva krasna haljina.
 -Ne sviða ti se? -Mora da ti je hladno.
 
 63
-00:11:33,317 --> 00:11:37,452
+00:11:35,372 --> 00:11:39,507
 Nimalo. Dornska klima mi odgovara.
 
 64
-00:11:38,121 --> 00:11:41,823
+00:11:40,176 --> 00:11:43,878
 Prinèe Trystane.
 
 65
-00:11:42,826 --> 00:11:45,161
+00:11:44,881 --> 00:11:47,216
 Kako vaša èeljust?
 
 66
-00:11:45,328 --> 00:11:48,664
+00:11:47,383 --> 00:11:50,719
 Samo ugriz muhe.
 -Što radiš u Dorneu?
 
 67
-00:11:48,665 --> 00:11:51,466
+00:11:50,720 --> 00:11:53,521
 Samo pazim na svoju
 neæakinju, princezu Myrcellu.
 
 68
-00:11:51,467 --> 00:11:54,336
+00:11:53,522 --> 00:11:56,391
 A umjesto da mi pošaljete
 gavrana ili mi se obratite,
 
 69
-00:11:54,337 --> 00:11:58,341
+00:11:56,392 --> 00:12:00,396
 odluèili ste tajno uæi u moju
 zemlju i silom oteti našu gošæu?
 
 70
-00:11:58,342 --> 00:12:01,644
+00:12:00,397 --> 00:12:03,699
 Primili smo prijeteæu poruku.
 
 71
-00:12:01,645 --> 00:12:05,847
+00:12:03,700 --> 00:12:07,902
 Princezinu ogrlicu u gujinim raljama.
 
 72
-00:12:06,183 --> 00:12:09,184
+00:12:08,238 --> 00:12:11,239
 Ta ogrlica mi je ukradena iz sobe.
 
 73
-00:12:14,573 --> 00:12:16,993
+00:12:16,628 --> 00:12:19,048
 Sjajno.
 
 74
-00:12:16,994 --> 00:12:20,831
+00:12:19,049 --> 00:12:22,886
 Posljednji obrok prije smaknuæa?
 -Ali vas ne mogu vas smaknuti.
 
 75
-00:12:20,831 --> 00:12:25,268
+00:12:22,886 --> 00:12:27,323
 Mnogi u Dorenu žele rat.
 Ali ja sam vidio rat.
 
 76
-00:12:25,302 --> 00:12:28,038
+00:12:27,357 --> 00:12:30,093
 Vidio sam hrpe tijela
 na borbenim poljima.
 
 77
-00:12:28,039 --> 00:12:31,591
+00:12:30,094 --> 00:12:33,646
 Vidio sam siroèad kako
 gladuju po gradovima.
 
 78
-00:12:31,591 --> 00:12:36,379
+00:12:33,646 --> 00:12:38,434
 Neæu voditi svoje ljude u taj pakao.
 -Ne, želiš lomiti kruh s Lannisterima.
 
 79
-00:12:36,429 --> 00:12:40,048
+00:12:38,484 --> 00:12:42,103
 A baš to i radimo.
 
 80
-00:12:40,884 --> 00:12:44,520
+00:12:42,939 --> 00:12:46,575
 Nazdravimo Tommenui,
 Prvome njegova imena,
 
 81
-00:12:44,522 --> 00:12:49,225
+00:12:46,577 --> 00:12:51,280
 kralju Andala i Prvih ljudi,
 vladaru Sedam Kraljevina.
 
 82
-00:13:06,660 --> 00:13:12,081
+00:13:08,715 --> 00:13:14,136
 Kralj Tommen inzistira da se
 njegova sestra vrati u prijestolnicu?
 
 83
-00:13:12,083 --> 00:13:15,250
+00:13:14,138 --> 00:13:17,305
 Bojim se da je tako.
 
 84
-00:13:16,254 --> 00:13:21,892
+00:13:18,309 --> 00:13:23,947
 Ne mogu se oglušiti o kraljevu
 naredbu. Vratit æe se s vama.
 
 85
-00:13:21,926 --> 00:13:25,378
+00:13:23,981 --> 00:13:27,433
 A moj sin, princ Trystane,
 æe vas pratiti.
 
 86
-00:13:25,379 --> 00:13:29,099
+00:13:27,434 --> 00:13:31,154
 Ako æe se savez izmeðu Željeznog
 prijestolja i Dornea nastaviti,
 
 87
-00:13:29,100 --> 00:13:32,686
+00:13:31,155 --> 00:13:34,741
 njihove se zaruke moraju
 održati. -Prihvaæam.
 
 88
-00:13:32,687 --> 00:13:38,073
+00:13:34,742 --> 00:13:40,128
 Još nešto. Moj brat je bio èlan
 Malog vijeæa prije nego je umro.
 
 89
-00:13:38,109 --> 00:13:41,927
+00:13:40,164 --> 00:13:43,982
 Vaš otac je shvaæao
 kakvu važnost Dorne ima.
 
 90
-00:13:41,928 --> 00:13:46,499
+00:13:43,983 --> 00:13:48,554
 Trystane æe zauzeti Oberinovo mjesto.
 
 91
-00:13:46,584 --> 00:13:50,702
+00:13:48,639 --> 00:13:52,757
 Imate moju rijeè. -Rijeè kraljosjeka.
 
 92
-00:13:52,255 --> 00:13:56,759
+00:13:54,310 --> 00:13:58,814
 Ništa èudno da ne možeš
 stajati. Nemaš kième!
 
 93
-00:13:56,793 --> 00:14:00,846
+00:13:58,848 --> 00:14:02,901
 Ti si majka moje èetiri neæakinje,
 djevojaka koje puno volim.
 
 94
-00:14:00,880 --> 00:14:04,116
+00:14:02,935 --> 00:14:06,171
 Za njihovo dobro, nadam se
 da æeš imati dug i sretan život.
 
 95
-00:14:04,118 --> 00:14:07,219
+00:14:06,173 --> 00:14:09,274
 Još mi se jednom tako obrati, i neæeš.
 
 96
-00:14:13,977 --> 00:14:17,730
+00:14:16,032 --> 00:14:19,785
 Mogu li upitati za sudbinu
 svog suputnika, Bronna?
 
 97
-00:14:17,731 --> 00:14:20,866
+00:14:19,786 --> 00:14:22,921
 Recite mi, Ser Jaime,
 u Kraljevu grudobranu,
 
 98
-00:14:20,868 --> 00:14:25,754
+00:14:22,923 --> 00:14:27,809
 kako kažnjavaju puèanina koji udari
 princa? -Ali to je samo ugriz muhe.
 
 99
-00:14:28,491 --> 00:14:32,261
+00:14:30,546 --> 00:14:34,316
 Ja sam kriv. Bronn je
 samo slušao moje naredbe.
 
 100
-00:14:32,263 --> 00:14:35,831
+00:14:34,318 --> 00:14:37,886
 Ako ikoga treba kazniti, kaznite mene.
 
 101
-00:14:35,832 --> 00:14:39,152
+00:14:37,887 --> 00:14:41,207
 Princ Trystane mora nauèiti
 suditi ako jednom misli vladati.
 
 102
-00:14:39,153 --> 00:14:41,470
+00:14:41,208 --> 00:14:43,525
 Neka on odluèi.
 
 103
-00:14:45,259 --> 00:14:47,927
+00:14:47,314 --> 00:14:49,982
 Od oca sam nauèio biti milostiv.
 
 104
-00:14:47,927 --> 00:14:51,364
+00:14:49,982 --> 00:14:53,419
 Pustit æu vašeg èovjeka.
 -Dobar si ti deèko.
 
 105
-00:14:51,365 --> 00:14:55,216
+00:14:53,420 --> 00:14:57,271
 Uz jedan uvjet.
 
 106
-00:15:02,025 --> 00:15:06,663
+00:15:04,080 --> 00:15:08,718
 Zašto se igramo? Bolja sam od
 tebe, uvijek sam bolja od tebe.
 
 107
-00:15:06,697 --> 00:15:12,451
+00:15:08,752 --> 00:15:14,506
 Jesam li ikada promašila? Mislim
 da nisam. Ne mogu se sjetiti.
 
 108
-00:15:12,503 --> 00:15:15,120
+00:15:14,558 --> 00:15:17,175
 Mora da voliš poniženje. Ili bol.
 
 109
-00:15:15,121 --> 00:15:19,292
+00:15:17,176 --> 00:15:21,347
 Što voliš više, poniženje ili bol?
 
 110
-00:15:19,876 --> 00:15:24,764
+00:15:21,931 --> 00:15:26,819
 To je zaboljelo, zar ne? Plakat æeš?
 
 111
-00:15:24,798 --> 00:15:28,802
+00:15:26,853 --> 00:15:30,857
 Predaj se, sestrice. -Promašit
 æeš. -Nikada ne promašim.
 
 112
-00:15:28,852 --> 00:15:32,187
+00:15:30,907 --> 00:15:34,242
 Hoæeš. Previše razmišljaš.
 
 113
-00:15:32,188 --> 00:15:36,225
+00:15:34,243 --> 00:15:38,280
 Sada si nervozna.
 Što ako je u pravu?
 
 114
-00:15:38,645 --> 00:15:43,115
+00:15:40,700 --> 00:15:45,170
 Posreæilo ti se.
 -Sada ja. -Prespora si.
 
 115
-00:15:43,149 --> 00:15:45,984
+00:15:45,204 --> 00:15:48,039
 Uvijek si bila prespora.
 
 116
-00:16:01,751 --> 00:16:06,172
+00:16:03,806 --> 00:16:08,227
 Bit æu zadovoljan nakon ove
 šetnjice? -Uskoro æeš saznati.
 
 117
-00:16:08,591 --> 00:16:12,894
+00:16:10,646 --> 00:16:14,949
 Reci još jednom, ljepotane. Tko sam ja?
 
 118
-00:16:13,230 --> 00:16:17,232
+00:16:15,285 --> 00:16:19,287
 Najljepša žena na svijetu.
 -I to je istina!
 
 119
-00:16:17,268 --> 00:16:20,332
+00:16:19,323 --> 00:16:22,387
 Droljo!
 
 120
-00:16:20,333 --> 00:16:24,990
+00:16:22,388 --> 00:16:27,045
 Prinèe Doran,
 Ser Bronn od Crnovode.
 
 121
-00:16:24,991 --> 00:16:28,995
+00:16:27,046 --> 00:16:31,050
 Nisam znao da postoje vitezovi
 od Crnovode. -Samo jedan.
 
 122
-00:16:29,028 --> 00:16:33,783
+00:16:31,083 --> 00:16:35,838
 Vjerujem da si veæ upoznao
 princa Trystanea. -Prinèe.
 
 123
-00:16:33,834 --> 00:16:38,087
+00:16:35,889 --> 00:16:40,142
 Žao mi je zbog onoga neki dan.
 -Princ Trystane je milostiv èovjek.
 
 124
-00:16:38,121 --> 00:16:41,456
+00:16:40,176 --> 00:16:43,511
 Pristao je osloboditi te.
 
 125
-00:16:42,092 --> 00:16:45,126
+00:16:44,147 --> 00:16:47,181
 Drago mi je da to èujem.
 
 126
-00:16:45,678 --> 00:16:50,131
+00:16:47,733 --> 00:16:52,186
 Pita izgleda ukusno.
 -Postoji jedan uvjet.
 
 127
-00:16:58,725 --> 00:17:02,059
+00:17:00,780 --> 00:17:04,114
 Možda bolje juha.
 
 128
-00:17:03,029 --> 00:17:07,449
+00:17:05,084 --> 00:17:09,504
 <i>Kamenice, dagnje i prstaci!
 
 129
-00:17:08,285 --> 00:17:11,488
+00:17:10,340 --> 00:17:13,543
 <i>Kamenice, dagnje i prstaci!
 
 130
-00:17:11,489 --> 00:17:15,325
+00:17:13,544 --> 00:17:17,380
 Kamenice, dagnje i prstaci!
 
 131
-00:17:15,326 --> 00:17:19,711
+00:17:17,381 --> 00:17:21,766
 Kamenice, dagnje i prstac...
 -Koliko za tvoju dagnjicu?
 
 132
-00:17:27,837 --> 00:17:31,722
+00:17:29,892 --> 00:17:33,777
 Kamenice, dagnje i prstaci!
 
 133
-00:17:33,594 --> 00:17:37,645
+00:17:35,649 --> 00:17:39,700
 Kamenice, dagnje i prstaci!
 
 134
-00:18:04,541 --> 00:18:07,542
+00:18:06,596 --> 00:18:09,597
 Hajde.
 
 135
-00:18:08,596 --> 00:18:14,299
+00:18:10,651 --> 00:18:16,354
 Donesi kamenice, djevojko!
 Tebi se obraæam!
 
 136
-00:18:14,351 --> 00:18:17,685
+00:18:16,406 --> 00:18:19,740
 Èuješ li...
 
 137
-00:18:18,771 --> 00:18:23,442
+00:18:20,826 --> 00:18:25,497
 Djevojèice! -<i>Vežite</i>!
 -Jesi li gluha? Djevojèice!
 
 138
-00:18:24,728 --> 00:18:27,445
+00:18:26,783 --> 00:18:29,500
 Djevojèice!
 
 139
-00:18:31,618 --> 00:18:34,236
+00:18:33,673 --> 00:18:36,291
 Moj kneže.
 
 140
-00:18:36,824 --> 00:18:40,710
+00:18:38,879 --> 00:18:42,765
 <i>Moj kneže</i>. -Kneže Tyrell!
 
 141
-00:18:40,711 --> 00:18:44,247
+00:18:42,766 --> 00:18:46,302
 U ime Željezne banke,
 želim vam poželjeti dobrodošlicu
 
 142
-00:18:44,248 --> 00:18:48,000
+00:18:46,303 --> 00:18:50,055
 u slobodan grad Braavos.
 Nadam se da ste dobro putovali.
 
 143
-00:18:48,001 --> 00:18:51,887
+00:18:50,056 --> 00:18:53,942
 Malo nemirno zadnjih
 par dana. Ništa grozno.
 
 144
-00:18:51,888 --> 00:18:54,539
+00:18:53,943 --> 00:18:56,594
 Lijepo je vidjeti da
 stari momak još èuva luku.
 
 145
-00:18:54,540 --> 00:18:59,061
+00:18:56,595 --> 00:19:01,116
 A kako je prošla žetva u Ravni?
 -Vinari kažu da je ovo možda bila
 
 146
-00:18:59,096 --> 00:19:02,315
+00:19:01,151 --> 00:19:04,370
 najbolja godina za crno
 grožðe u pedeset godina.
 
 147
-00:19:02,316 --> 00:19:05,434
+00:19:04,371 --> 00:19:07,489
 Ako postignemo zadovoljavajuæ dogovor,
 
 148
-00:19:05,435 --> 00:19:10,272
+00:19:07,490 --> 00:19:12,327
 svakako æu vam poslati
 sanduk najbolje berbe.
 
 149
-00:19:10,324 --> 00:19:14,993
+00:19:12,379 --> 00:19:17,048
 Bojim se da ne uživam u vinu.
 
 150
-00:19:20,284 --> 00:19:24,703
+00:19:22,339 --> 00:19:26,758
 Neki lihvarenje smatraju
 neukusnim, neèasnim.
 
 151
-00:19:24,755 --> 00:19:28,758
+00:19:26,810 --> 00:19:30,813
 Same gluposti, naravno.
 -Drago mi je da se slažemo.
 
 152
-00:19:28,759 --> 00:19:34,012
+00:19:30,814 --> 00:19:36,067
 Jeste li znali da ga je Maegor Treæi
 èak pokušao staviti izvan zakona?
 
 153
-00:19:34,048 --> 00:19:36,214
+00:19:36,103 --> 00:19:38,269
 Htio je uhititi sve kamatare
 
 154
-00:19:36,215 --> 00:19:41,019
+00:19:38,270 --> 00:19:43,074
 i odrezati im obje ruke.
 -Kakva šteta za rukavièare.
 
 155
-00:19:41,055 --> 00:19:45,375
+00:19:43,110 --> 00:19:47,430
 Ako èovjek ne zaraèuna kamatu,
 nema što dobiti, a sve za izgubiti.
 
 156
-00:19:45,375 --> 00:19:51,197
+00:19:47,430 --> 00:19:53,252
 Zašto riskirati? Ali obeæanje nagrade
 je ono zašto æe se èovjek kockati.
 
 157
-00:19:51,230 --> 00:19:54,701
+00:19:53,285 --> 00:19:56,756
 Ovdje u Željeznoj banci neæete
 naæi kockare, kneže Tyrell.
 
 158
-00:19:54,701 --> 00:19:57,153
+00:19:56,756 --> 00:19:59,208
 Vi ste najbolji kockari na svijetu.
 
 159
-00:19:57,153 --> 00:20:01,490
+00:19:59,208 --> 00:20:03,545
 A sve one oklade koje ste
 dobili su vam izgradile ovo.
 
 160
-00:20:12,169 --> 00:20:16,172
+00:20:14,224 --> 00:20:18,227
 <i>Trebmo proslaviti. -Bojim
 se da imam još puno posla.
 
 161
-00:20:16,173 --> 00:20:20,009
+00:20:18,228 --> 00:20:22,064
 Gluposti. Posao je završio. Pjevate li?
 -Nemam taj dar. -Nije to dar.
 
 162
-00:20:20,010 --> 00:20:25,765
+00:20:22,065 --> 00:20:27,820
 Vještina je i svi je mogu nauèiti.
 <i>Poljubi me kraj Dugog Kanala</i>;
 
 163
-00:20:25,816 --> 00:20:29,769
+00:20:27,871 --> 00:20:31,824
 <i>I dva puta u Slanome gradu.
 
 164
-00:20:29,769 --> 00:20:34,773
+00:20:31,824 --> 00:20:36,828
 <i>Jer sutra mi æemo mrijeti;
 
 165
-00:20:34,825 --> 00:20:38,493
+00:20:36,880 --> 00:20:40,548
 <i>Gologlav prosjak i kralj s krunom...
 
 166
-00:20:38,494 --> 00:20:42,582
+00:20:40,549 --> 00:20:44,637
 Mislio sam da taj stari govnar nikad
 neæe prestati pjevati. -Nije bio loš.
 
 167
-00:20:42,615 --> 00:20:46,919
+00:20:44,670 --> 00:20:48,974
 Tyrelli mogu trunuti
 u paklu. Izdajnièke pièke!
 
 168
-00:20:46,953 --> 00:20:50,838
+00:20:49,008 --> 00:20:52,893
 Za kralja su htjeli
 tog guzièara Renlyja.
 
 169
-00:20:51,040 --> 00:20:55,260
+00:20:53,095 --> 00:20:57,315
 To je to, deèki. Najbolje
 bludnice u Braavosu.
 
 170
-00:20:55,295 --> 00:21:00,383
+00:20:57,350 --> 00:21:02,438
 Ti èastiš? -Èastim sebe.
 Nikad nisam znao dijeliti.
 
 171
-00:21:21,238 --> 00:21:26,459
+00:21:23,293 --> 00:21:28,514
 Prodaj svoju ribu drugdje.
 -Pusti je, Brusco. Gladna sam.
 
 172
-00:21:26,492 --> 00:21:29,411
+00:21:28,547 --> 00:21:31,466
 Doði ovamo, dušice.
 
 173
-00:21:32,715 --> 00:21:37,670
+00:21:34,770 --> 00:21:39,725
 Kažu da od kamenica poteku
 sokovi. Uzet æemo pola tuceta.
 
 174
-00:21:39,423 --> 00:21:44,760
+00:21:41,478 --> 00:21:46,815
 Tri bakrenjaka. -Evo ti
 srebrnjak jer se sviðaš dami.
 
 175
-00:22:10,871 --> 00:22:13,872
+00:22:12,926 --> 00:22:15,927
 Prestara.
 
 176
-00:22:16,292 --> 00:22:18,626
+00:22:18,347 --> 00:22:20,681
 Brea.
 
 177
-00:22:32,792 --> 00:22:35,359
+00:22:34,847 --> 00:22:37,414
 Prestara.
 
 178
-00:22:36,395 --> 00:22:40,398
+00:22:38,450 --> 00:22:42,453
 Imam baš pravu. Anara!
 
 179
-00:22:41,367 --> 00:22:44,318
+00:22:43,422 --> 00:22:46,373
 Naša najskuplja djevojka.
 
 180
-00:22:44,454 --> 00:22:48,539
+00:22:46,509 --> 00:22:50,594
 Ali isplatit æe se, uvjeravam vas.
 
 181
-00:22:52,546 --> 00:22:55,346
+00:22:54,601 --> 00:22:57,401
 Prestara.
 
 182
-00:23:02,306 --> 00:23:07,926
+00:23:04,361 --> 00:23:09,981
 Imate li što želim ili ne?
 -Naravno. Naravno.
 
 183
-00:23:13,349 --> 00:23:16,351
+00:23:15,404 --> 00:23:18,406
 Svježe su?
 
 184
-00:23:18,989 --> 00:23:22,990
+00:23:21,044 --> 00:23:25,045
 Doði, deèki su gladni.
 
 185
-00:23:25,362 --> 00:23:29,781
+00:23:27,417 --> 00:23:31,836
 Svježe kamenice su najbolje
 ako želiš da ti se ukruti.
 
 186
-00:23:29,833 --> 00:23:32,873
+00:23:31,888 --> 00:23:34,928
 I ja æu jednu.
 
 187
-00:23:33,036 --> 00:23:35,903
+00:23:35,091 --> 00:23:37,958
 Ima li kvasine?
 
 188
-00:23:36,123 --> 00:23:39,191
+00:23:38,178 --> 00:23:41,246
 Tko je pustio djevojèicu ovamo?
 
 189
-00:23:58,612 --> 00:24:01,730
+00:24:00,667 --> 00:24:03,785
 Može.
 
 190
-00:24:10,240 --> 00:24:12,907
+00:24:12,295 --> 00:24:14,962
 Javit æu vam kad budem završio.
 
 191
-00:24:17,580 --> 00:24:21,968
+00:24:19,635 --> 00:24:24,023
 Sutra æete imati svježu
 za mene? -Naravno.
 
 192
-00:24:26,423 --> 00:24:30,593
+00:24:28,478 --> 00:24:32,648
 Dat æu te izbièevati,
 djevojko! Hajde, van!
 
 193
-00:24:42,439 --> 00:24:46,442
+00:24:44,494 --> 00:24:48,497
 <i>Valar morghulis.
 -Valar morghulis.
 
 194
-00:25:01,875 --> 00:25:06,045
+00:25:03,930 --> 00:25:08,100
 I? -Mršavi danas nije bio gladan.
 
 195
-00:25:06,078 --> 00:25:09,999
+00:25:08,133 --> 00:25:12,054
 Možda zato i je mršav. -Sutra.
 
 196
-00:25:10,000 --> 00:25:14,134
+00:25:12,055 --> 00:25:16,189
 Sutra.
 
 197
-00:25:14,221 --> 00:25:17,255
+00:25:16,276 --> 00:25:19,310
 Djevojèica ima posla.
 
 198
-00:25:29,502 --> 00:25:33,138
+00:25:31,557 --> 00:25:35,193
 Tvoja pobuna je završila.
 
 199
-00:25:33,140 --> 00:25:36,941
+00:25:35,195 --> 00:25:38,996
 Možeš mi prisegnuti na odanost...
 
 200
-00:25:37,411 --> 00:25:40,327
+00:25:39,466 --> 00:25:42,382
 Ili možeš umrijeti.
 
 201
-00:26:14,530 --> 00:26:17,832
+00:26:16,585 --> 00:26:19,887
 Vjerujem u druge prilike.
 
 202
-00:26:18,785 --> 00:26:22,537
+00:26:20,840 --> 00:26:24,592
 Ne vjerujem u treæe.
 
 203
-00:26:49,782 --> 00:26:52,901
+00:26:51,837 --> 00:26:54,956
 Pišete kao trogodišnjak.
 
 204
-00:26:53,487 --> 00:26:55,788
+00:26:55,542 --> 00:26:57,843
 Vaš meštar se ponudio da ga prepiše.
 
 205
-00:26:55,788 --> 00:27:01,210
+00:26:57,843 --> 00:27:03,265
 Nije tražio novac?
 Možda se promijenio.
 
 206
-00:27:01,243 --> 00:27:05,798
+00:27:03,298 --> 00:27:07,853
 Kraljica æe biti oduševljena
 što joj vraæate kæer kuæi. -Hoæe.
 
 207
-00:27:05,832 --> 00:27:10,803
+00:27:07,887 --> 00:27:12,858
 Jako je volite, zar ne?
 -Naravno. Neæakinja mi je.
 
 208
-00:27:10,836 --> 00:27:13,755
+00:27:12,891 --> 00:27:15,810
 Nisam mislila na nju.
 
 209
-00:27:14,891 --> 00:27:18,428
+00:27:16,946 --> 00:27:20,483
 Mislite da ne odobravam Zašto?
 
 210
-00:27:18,429 --> 00:27:21,480
+00:27:20,484 --> 00:27:23,535
 Jer ljudi iz vašeg
 kraja to ne odobravaju?
 
 211
-00:27:21,480 --> 00:27:24,682
+00:27:23,535 --> 00:27:26,737
 U mom kraju nisu
 odobravali Oberyna i mene.
 
 212
-00:27:24,683 --> 00:27:28,903
+00:27:26,738 --> 00:27:30,958
 Ovdje nitko nije ni trepnuo.
 
 213
-00:27:29,689 --> 00:27:35,443
+00:27:31,744 --> 00:27:37,498
 Prije stotinu godina nitko ne
 bi trepnuo ako ste bili Targaryen.
 
 214
-00:27:37,297 --> 00:27:41,416
+00:27:39,352 --> 00:27:43,471
 To se stalno mijenja, koga
 bismo trebali voljeti, a koga ne.
 
 215
-00:27:42,618 --> 00:27:47,655
+00:27:44,673 --> 00:27:49,710
 A jedino što ostaje isto
 je da želimo one koje želimo.
 
 216
-00:27:57,384 --> 00:28:00,201
+00:27:59,439 --> 00:28:02,256
 Znam da vaša kæer nije
 imala ulogu u onoj grozoti
 
 217
-00:28:00,202 --> 00:28:02,936
+00:28:02,257 --> 00:28:04,991
 koja se dogodila èovjeku kojega volim.
 
 218
-00:28:04,624 --> 00:28:08,108
+00:28:06,679 --> 00:28:10,163
 Možda ste i vi bili nevini u tome.
 
 219
-00:28:25,545 --> 00:28:28,546
+00:28:27,600 --> 00:28:30,601
 Oèe.
 
 220
-00:28:31,000 --> 00:28:33,334
+00:28:33,055 --> 00:28:35,389
 Nije li ti hladno?
 
 221
-00:28:34,671 --> 00:28:37,755
+00:28:36,726 --> 00:28:39,810
 Ne. Što èitaš?
 
 222
-00:28:38,224 --> 00:28:42,912
+00:28:40,279 --> 00:28:44,967
 "Ples zmajeva." -O èemu je?
 -O borbi izmeðu Rhaenyrije Targaryen
 
 223
-00:28:42,945 --> 00:28:46,265
+00:28:45,000 --> 00:28:48,320
 i njenog polubrata Aegona za
 kontrolu nad Sedam Kraljevina.
 
 224
-00:28:46,266 --> 00:28:49,101
+00:28:48,321 --> 00:28:51,156
 Oboje su mislili da je
 Željezno prijestolje njihovo.
 
 225
-00:28:49,102 --> 00:28:54,656
+00:28:51,157 --> 00:28:56,711
 Kada su se ljudi poèeli odluèivati
 za strane, borba je podijelila zemlju.
 
 226
-00:28:54,691 --> 00:28:59,076
+00:28:56,746 --> 00:29:01,131
 Brat se borio protiv brata,
 zmaj protiv zmaja.
 
 227
-00:28:59,746 --> 00:29:03,749
+00:29:01,801 --> 00:29:05,804
 Kada je rat završio,
 tisuæe su izginule.
 
 228
-00:29:03,750 --> 00:29:09,505
+00:29:05,805 --> 00:29:11,560
 A patili su i Targaryeni.
 Nikad se nisu oporavili od toga.
 
 229
-00:29:09,538 --> 00:29:12,539
+00:29:11,593 --> 00:29:14,594
 "Ples zmajeva"
 
 230
-00:29:13,292 --> 00:29:16,878
+00:29:15,347 --> 00:29:18,933
 Zašto ples? -Tako su ga nazvali.
 
 231
-00:29:16,880 --> 00:29:21,049
+00:29:18,935 --> 00:29:23,104
 Nema smisla.
 -Mislim da je poetièno.
 
 232
-00:29:27,891 --> 00:29:33,811
+00:29:29,946 --> 00:29:35,866
 Da moraš izabrati izmeðu
 Rhaenyrije i Aegona...
 
 233
-00:29:35,397 --> 00:29:39,484
+00:29:37,452 --> 00:29:41,539
 Koga bi izabrala? -Niti jedno.
 
 234
-00:29:39,536 --> 00:29:45,039
+00:29:41,591 --> 00:29:47,094
 Odabiranje strane je i prouzroèilo sav
 taj užas. -Ponekad osoba mora izabrati.
 
 235
-00:29:47,076 --> 00:29:51,378
+00:29:49,131 --> 00:29:53,433
 Ponekad te svijet prisili.
 
 236
-00:29:52,382 --> 00:29:56,250
+00:29:54,437 --> 00:29:58,305
 Ako èovjek zna tko je...
 
 237
-00:29:56,635 --> 00:30:00,471
+00:29:58,690 --> 00:30:02,526
 I ako ostane iskren sebi...
 
 238
-00:30:02,925 --> 00:30:08,263
+00:30:04,980 --> 00:30:10,318
 Izbor ne postoji.
 Mora ispuniti svoju sudbinu...
 
 239
-00:30:10,482 --> 00:30:14,935
+00:30:12,537 --> 00:30:16,990
 I postati ono što mu je suðeno.
 
 240
-00:30:16,138 --> 00:30:19,490
+00:30:18,193 --> 00:30:21,545
 Koliko god to mrzio.
 
 241
-00:30:19,742 --> 00:30:25,497
+00:30:21,797 --> 00:30:27,552
 U redu je, oèe.
 -Ne znaš ni o èemu govorim.
 
 242
-00:30:25,531 --> 00:30:31,287
+00:30:27,586 --> 00:30:33,342
 Nije važno. Želim ti pomoæi.
 Mogu li ti kako pomoæi?
 
 243
-00:30:39,128 --> 00:30:43,431
+00:30:41,183 --> 00:30:45,486
 Da. -Dobro, želim.
 
 244
-00:30:45,250 --> 00:30:49,771
+00:30:47,305 --> 00:30:51,826
 Ja sam princeza Shireen od
 Kuæe Baratheon. I tvoja sam kæi.
 
 245
-00:31:04,054 --> 00:31:06,988
+00:31:06,109 --> 00:31:09,043
 Oprosti mi.
 
 246
-00:31:47,113 --> 00:31:52,667
+00:31:49,168 --> 00:31:54,722
 Gdje je otac? Želim vidjeti oca!
 -Brzo æe biti gotovo, princezo.
 
 247
-00:31:56,638 --> 00:31:59,089
+00:31:58,693 --> 00:32:01,144
 Ne!
 
 248
-00:32:00,876 --> 00:32:05,446
+00:32:02,931 --> 00:32:07,501
 Gdje je moj otac?
 Ne, ne smijete to! Oèe, gdje si?!
 
 249
-00:32:05,481 --> 00:32:10,803
+00:32:07,536 --> 00:32:12,858
 Molim vas, pustite me ocu!
 Oèe, gdje si? Nemoj joj to dopustiti!
 
 250
-00:32:11,770 --> 00:32:14,556
+00:32:13,825 --> 00:32:16,611
 Molim vas, pustite me!
 
 251
-00:32:14,557 --> 00:32:20,229
+00:32:16,612 --> 00:32:22,284
 Pustite me ocu! Gdje si?!
 Molim vas! -To Gospodar želi. -Ne.
 
 252
-00:32:20,279 --> 00:32:25,483
+00:32:22,334 --> 00:32:27,538
 Pustite me! Ne! -To je dobra stvar.
 Velika stvar. -Stanite. Stanite!
 
 253
-00:32:25,535 --> 00:32:30,204
+00:32:27,590 --> 00:32:32,259
 Molim vas! -Poèuj nas, Gospodaru.
 Nudimo ti ovu djevojèicu...
 
 254
-00:32:30,240 --> 00:32:35,044
+00:32:32,295 --> 00:32:37,099
 Molim vas! -Proèisti je vatrom
 svojom i neka nas tvoje svjetlo vodi.
 
 255
-00:32:35,077 --> 00:32:37,528
+00:32:37,132 --> 00:32:39,583
 Molim vas! Ne, molim
 vas, pustite me ocu!
 
 256
-00:32:37,529 --> 00:32:41,299
+00:32:39,584 --> 00:32:43,354
 Ako se to ne uèini,
 umrijet æemo ovdje. Svi.
 
 257
-00:32:41,334 --> 00:32:45,255
+00:32:43,389 --> 00:32:47,310
 Ali ako uèinimo ovu žrtvu... -Primi
 ovaj znak naše vjere, Gospodaru,
 
 258
-00:32:45,256 --> 00:32:51,143
+00:32:47,311 --> 00:32:53,198
 i pokaži nam put iz tame. Gospodaru
 Svjetla, pokaži nam put. -Majko!
 
 259
-00:32:51,227 --> 00:32:54,311
+00:32:53,282 --> 00:32:56,366
 Majko, molim te!
 
 260
-00:32:55,265 --> 00:32:58,933
+00:32:57,320 --> 00:33:00,988
 Majko, molim te! Majko!
 Majko! -Ne smijemo.
 
 261
-00:32:58,934 --> 00:33:01,636
+00:33:00,989 --> 00:33:03,691
 Ne postoji drugi naèin.
 Ona je kraljeva krv.
 
 262
-00:33:01,637 --> 00:33:04,666
+00:33:03,692 --> 00:33:06,721
 Gospodaru Svjetla, zaštiti nas!
 -Molim vas! Oèe!
 
 263
-00:33:04,667 --> 00:33:10,666
+00:33:06,722 --> 00:33:12,721
 Jer noæ je mraèna i puna užasa.
 -Oèe! Oèe, nemoj! Molim te!
 
 264
-00:33:10,747 --> 00:33:16,451
+00:33:12,802 --> 00:33:18,506
 Majko, ne! Molim te!
 Molim te, pomozi mi! Nemoj!
 
 265
-00:33:16,536 --> 00:33:19,203
+00:33:18,591 --> 00:33:21,258
 Molim te, oèe!
 Majko, pomozi mi!
 
 266
-00:33:19,204 --> 00:33:22,590
+00:33:21,259 --> 00:33:24,645
 Ne. -Ne, molim vas! Nemojte!
 
 267
-00:33:22,592 --> 00:33:25,961
+00:33:24,647 --> 00:33:28,016
 Nemojte, molim vas, majko!
 
 268
-00:33:25,961 --> 00:33:29,798
+00:33:28,016 --> 00:33:31,853
 Molim te, majko!
 Majko, pomozi mi!
 
 269
-00:33:29,799 --> 00:33:35,019
+00:33:31,854 --> 00:33:37,074
 Majko, pomozi mi! Upomoæ!
 Molim te, nemojte, majko!
 
 270
-00:33:35,054 --> 00:33:38,773
+00:33:37,109 --> 00:33:40,828
 Molim vas!
 Molim te, majko! Majko!
 
 271
-00:33:38,775 --> 00:33:44,730
+00:33:40,830 --> 00:33:46,785
 Molim vas! Ne! Molim vas! Ne!
 
 272
-00:34:01,830 --> 00:34:05,883
+00:34:03,885 --> 00:34:07,938
 Ne!
 
 273
-00:34:54,434 --> 00:34:58,719
+00:34:56,489 --> 00:35:00,774
 Gdje si bio? -Samo sam
 provjeravao je li sve u redu.
 
 274
-00:35:19,500 --> 00:35:22,721
+00:35:21,555 --> 00:35:24,776
 <i>Slobodni narode Meereena!
 
 275
-00:35:22,722 --> 00:35:28,721
+00:35:24,777 --> 00:35:30,776
 <i>Blagoslovom bogova
 i Njenog Velièanstva Kraljice...
 
 276
-00:35:30,000 --> 00:35:35,722
+00:35:32,055 --> 00:35:37,777
 <i>Dobrodošli... Na finalne igre!
 
 277
-00:35:53,030 --> 00:35:56,003
+00:35:55,085 --> 00:35:58,058
 <i>Moja Kraljice, naš prvi okršaj.
 
 278
-00:35:56,003 --> 00:35:58,887
+00:35:58,058 --> 00:36:00,942
 <i>Tko æe pobijediti...
 
 279
-00:35:58,889 --> 00:36:02,889
+00:36:00,944 --> 00:36:04,944
 <i>Snaga... Ili brzina?
 
 280
-00:36:04,590 --> 00:36:10,588
+00:36:06,645 --> 00:36:12,643
 <i>Borit æu se i umrijeti
 za vašu slavu, o velika Kraljice!
 
 281
-00:36:10,590 --> 00:36:16,588
+00:36:12,645 --> 00:36:18,643
 <i>Ja æu se boriti i umrijeti
 za vašu slavu, o velika Kraljice!
 
 282
-00:36:28,811 --> 00:36:33,481
+00:36:30,866 --> 00:36:35,536
 Èekaju vas. Zaplješæite.
 
 283
-00:37:02,846 --> 00:37:06,349
+00:37:04,901 --> 00:37:08,404
 Taj mali. Na njega se treba kladiti.
 
 284
-00:37:06,349 --> 00:37:09,735
+00:37:08,404 --> 00:37:11,790
 Onda na njega.
 -Na nikoga se neæu kladiti.
 
 285
-00:37:09,735 --> 00:37:11,902
+00:37:11,790 --> 00:37:13,957
 Kraljevi i kraljice
 se ne klade na borbe.
 
 286
-00:37:11,903 --> 00:37:16,903
+00:37:13,958 --> 00:37:18,958
 Naði nekoga tko se kladi. -Kladili
 su se protiv mene kad sam se borio.
 
 287
-00:37:16,905 --> 00:37:20,244
+00:37:18,960 --> 00:37:22,299
 I on bi se kladio protiv mene.
 Klasièna poèetnièka pogreška.
 
 288
-00:37:20,246 --> 00:37:22,530
+00:37:22,301 --> 00:37:24,585
 Puno sam vremena
 proveo u ovom borilištu,
 
 289
-00:37:22,532 --> 00:37:26,668
+00:37:24,587 --> 00:37:28,723
 a prema iskustvu, veæi muškarci
 èešæe pobjeðuju manjeg nego obrnuto.
 
 290
-00:37:26,702 --> 00:37:31,255
+00:37:28,757 --> 00:37:33,310
 A tvoje iskustvo
 je ukljuèivalo pravu borbu?
 
 291
-00:37:31,289 --> 00:37:35,208
+00:37:33,344 --> 00:37:37,263
 Jesi li ikada pokušao ubiti
 èovjeka koji pokušava ubiti tebe?
 
 292
-00:37:36,346 --> 00:37:39,181
+00:37:38,401 --> 00:37:41,236
 Kada god bih ušao u
 jamu s onakvom zvijeri,
 
 293
-00:37:39,181 --> 00:37:41,882
+00:37:41,236 --> 00:37:43,937
 publika bi me vidjela,
 tada samo kost i koža,
 
 294
-00:37:41,884 --> 00:37:45,219
+00:37:43,939 --> 00:37:47,274
 a onda bi pogledali bijesnu
 hrpu mišiæa koja me želi ubiti.
 
 295
-00:37:45,221 --> 00:37:47,438
+00:37:47,276 --> 00:37:49,493
 Kako bi samo brzo
 posegnuli za novèarkom.
 
 296
-00:37:47,440 --> 00:37:50,942
+00:37:49,495 --> 00:37:52,997
 Ali hrpa mišiæa nikad
 nema mišiæa ovdje...
 
 297
-00:37:50,943 --> 00:37:56,063
+00:37:52,998 --> 00:37:58,118
 Ili... ovdje. A takvi
 su uvijek bili prespori
 
 298
-00:37:56,148 --> 00:37:59,233
+00:37:58,203 --> 00:38:01,288
 da zaustave moju oštricu da
 zareže tamo gdje nema mišiæa.
 
 299
-00:37:59,235 --> 00:38:02,903
+00:38:01,290 --> 00:38:04,958
 Kad god bih vidio takvu
 zvijer kako mi stoji nasuprot
 
 300
-00:38:02,905 --> 00:38:06,992
+00:38:04,960 --> 00:38:09,047
 i radi svoje zvjerske grimase
 znao sam da mogu biti miran.
 
 301
-00:38:18,838 --> 00:38:23,759
+00:38:20,893 --> 00:38:25,814
 Ne odobravate? -U mom svijetu
 je bilo i previše smrti za moj ukus.
 
 302
-00:38:23,809 --> 00:38:28,262
+00:38:25,864 --> 00:38:30,317
 U slobodno vrijeme mogu i bez toga.
 -Pošteno. Znam da je neugodno pitanje,
 
 303
-00:38:28,264 --> 00:38:32,684
+00:38:30,319 --> 00:38:34,739
 ali koja je velika stvar postignuta
 bez ubijanja ili okrutnosti?
 
 304
-00:38:32,768 --> 00:38:36,070
+00:38:34,823 --> 00:38:38,125
 Lako je pomiješati ono što
 jest s onim što bi trebalo biti,
 
 305
-00:38:36,072 --> 00:38:40,358
+00:38:38,127 --> 00:38:42,413
 posebice kad ono što jest ide
 tebi u prilog. -Ne govorim o sebi.
 
 306
-00:38:40,409 --> 00:38:44,996
+00:38:42,464 --> 00:38:47,051
 Govorim o uvjetima potrebima
 za velièinu. -A to je velièina?
 
 307
-00:38:45,030 --> 00:38:49,000
+00:38:47,085 --> 00:38:51,055
 To je vitalni dio
 velikog grada Meereena,
 
 308
-00:38:49,001 --> 00:38:51,503
+00:38:51,056 --> 00:38:53,558
 koji je postojao davno prije nas
 
 309
-00:38:51,503 --> 00:38:55,590
+00:38:53,558 --> 00:38:57,645
 i koji æe stajati i dugo nakon
 što se mi postanemo prašina.
 
 310
-00:38:55,625 --> 00:38:58,626
+00:38:57,680 --> 00:39:00,681
 Svidio bi se mom ocu.
 
 311
-00:39:06,000 --> 00:39:09,500
+00:39:08,055 --> 00:39:11,555
 <i>Još jednom pitamo,
 tko æe pobijediti?!
 
 312
-00:39:09,501 --> 00:39:12,306
+00:39:11,556 --> 00:39:14,361
 Jednoga æe dana i tvoj
 veliki grad postati prašina.
 
 313
-00:39:12,307 --> 00:39:16,407
+00:39:14,362 --> 00:39:18,462
 Po vašoj naredbi? -Ako treba.
 -<i>Meereenski prvak</i>?
 
 314
-00:39:19,898 --> 00:39:23,201
+00:39:21,953 --> 00:39:25,256
 A koliko æe ljudi umrijeti za to?
 
 315
-00:39:23,202 --> 00:39:26,621
+00:39:25,257 --> 00:39:28,676
 Ako doðe do toga,
 umrijet æe s dobrim razlogom.
 
 316
-00:39:26,621 --> 00:39:30,541
+00:39:28,676 --> 00:39:32,596
 I ti ljudi misle da umiru
 s razlogom. -Koji nije njihov.
 
 317
-00:39:30,543 --> 00:39:33,311
+00:39:32,598 --> 00:39:35,366
 Znaèi, vaši su razlozi pravi,
 a njihovi su lažni?
 
 318
-00:39:33,311 --> 00:39:38,833
+00:39:35,366 --> 00:39:40,888
 Oni ne poznaju svoj um, ali
 vi poznajete? -Elokventan si èovjek.
 
 319
-00:39:38,835 --> 00:39:42,804
+00:39:40,890 --> 00:39:44,859
 Ne znaèi da si u krivu. Iz mog
 iskustva, elokventni ljudi imaju pravo
 
 320
-00:39:42,804 --> 00:39:46,902
+00:39:44,859 --> 00:39:48,957
 jednako èesto kao i imbecili.
 -<i>Ili zapadnjaèki vitez</i>?!
 
 321
-00:39:46,903 --> 00:39:50,903
+00:39:48,958 --> 00:39:52,958
 <i>Borit æu se i
 umrijeti za vašu slavu...
 
 322
-00:39:53,204 --> 00:39:55,905
+00:39:55,259 --> 00:39:57,960
 <i>O velika Kraljice.
 
 323
-00:40:12,123 --> 00:40:15,503
+00:40:14,178 --> 00:40:17,558
 Vaša Milosti... -Zaèepi!
 
 324
-00:42:40,932 --> 00:42:45,653
+00:42:42,987 --> 00:42:47,708
 Možeš zaustaviti ovo!
 -Ne može. -Možeš!
 
 325
-00:44:23,202 --> 00:44:26,702
+00:44:25,257 --> 00:44:28,757
 Zaštitite svoju kraljicu!
 
 326
-00:44:36,264 --> 00:44:39,016
+00:44:38,319 --> 00:44:41,071
 <i>Bježite!
 
 327
-00:45:02,123 --> 00:45:06,827
+00:45:04,178 --> 00:45:08,882
 Vaša Milosti! Vaša Milosti!
 Doðite, znam izlaz! Znam izlaz...
 
 328
-00:45:42,664 --> 00:45:44,780
+00:45:44,719 --> 00:45:46,835
 Ostani blizu.
 
 329
-00:45:51,340 --> 00:45:53,757
+00:45:53,395 --> 00:45:55,812
 Ovuda.
 
 330
-00:46:04,135 --> 00:46:08,521
+00:46:06,190 --> 00:46:10,576
 Na drugu stranu. Za mnom.
 
 331
-00:46:09,775 --> 00:46:12,893
+00:46:11,830 --> 00:46:14,948
 Zaštitite svoju kraljicu!
 
 332
-00:49:05,733 --> 00:49:08,568
+00:49:07,788 --> 00:49:10,623
 Drogone!
 
 333
-00:50:09,681 --> 00:50:12,798
+00:50:11,736 --> 00:50:14,853
 <i>Valahd.
 
 334
-00:51:00,000 --> 00:51:05,998
+00:51:02,055 --> 00:51:08,053
 ivan204@prijevodi-online.org  ;)
+

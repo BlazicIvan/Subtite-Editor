@@ -1,7 +1,7 @@
 
 #ifndef MAX_LEN
 
-#define MAX_LEN 200
+#define MAX_LEN 300
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -23,8 +23,6 @@ typedef struct elem
 	titl *pok;
 }pokT;
 
-
-void Provera(char *s1, char *s2, FILE **ul, FILE **iz);
 
 pokT* Unos(pokT *glava, FILE *ul);
 

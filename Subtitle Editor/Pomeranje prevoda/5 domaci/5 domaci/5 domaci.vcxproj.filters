@@ -23,9 +23,6 @@
     <ClCompile Include="dz5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="dz5_init.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="dz5_load.c">
       <Filter>Source Files</Filter>
     </ClCompile>

@@ -80,7 +80,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dz5.c" />
-    <ClCompile Include="dz5_init.c" />
     <ClCompile Include="dz5_load.c" />
     <ClCompile Include="dz5_process.c" />
     <ClCompile Include="dz5_save.c" />

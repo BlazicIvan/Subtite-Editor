@@ -83,13 +83,7 @@ pokT* Unos(pokT *glava, FILE *ul)
 		if (end)
 			break;
 	}
-	if(fclose(ul)==EOF)
-	{
-		printf("Greska pri zatvaranju ulazne datoteke!\n");
-		glava = ObrisiListu(glava);
-		system("PAUSE");
-		exit(5);
-	}
+	
 	return glava;
 }
 

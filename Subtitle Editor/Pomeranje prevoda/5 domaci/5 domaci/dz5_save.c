@@ -40,11 +40,5 @@ void IspisDat(pokT *glava, double pomeraj, FILE *iz)
 		}
 		glava = glava->sled;
 	}
-	if (fclose(iz) == EOF)
-	{
-		printf("Greska pri zatvaranju izlazne datoteke!\n");
-		glava = ObrisiListu(gl);
-		system("PAUSE");
-		exit(5);
-	}
+	
 }
