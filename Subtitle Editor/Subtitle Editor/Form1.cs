@@ -60,6 +60,7 @@ namespace Subtitle_Editor
                 previewBox.Text = Title.ReadToEnd();
                 StatusLabel.Text = Path.GetFileName(file_name);
                 Title.Close();
+                DeleteTempFile();
                 SaveTempFile();
                 previewBox.Enabled = true;
             }
