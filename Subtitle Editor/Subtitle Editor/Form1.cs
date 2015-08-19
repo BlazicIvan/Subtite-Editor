@@ -47,7 +47,7 @@ namespace Subtitle_Editor
 
         void ReadTempFile()
         {
-            StreamReader Temp = new StreamReader("Temp");
+            StreamReader Temp = new StreamReader("Temp",Encoding.Default);
             previewBox.Text = Temp.ReadToEnd();
             Temp.Close();
         }
@@ -127,7 +127,7 @@ namespace Subtitle_Editor
             else
                 output += '-';
             decimal mins, secs, milsecs;
-            string file_name = "temp";
+            string file_name = "Temp";
             mins = mins_btn.Value;
             secs = secs_btn.Value;
             milsecs = msecs_btn.Value;
@@ -135,6 +135,7 @@ namespace Subtitle_Editor
             output += secs.ToString() + "." + milsecs.ToString() + " " + file_name;
             ProcessStartInfo shifter = new ProcessStartInfo("Shifter", output);
             Process.Start(shifter);
+            ReadTempFile();
         }
 
         private void shright_Click(object sender, EventArgs e)
@@ -142,7 +143,6 @@ namespace Subtitle_Editor
             if (previewBox.Enabled == true)
             {
                 shift('r');
-                ReadTempFile();
             }
             else
                 ErrorOpen();
@@ -153,7 +153,6 @@ namespace Subtitle_Editor
             if (previewBox.Enabled == true)
             {
                 shift('l');
-                ReadTempFile();
             }
             else
                 ErrorOpen();
@@ -199,6 +198,5 @@ namespace Subtitle_Editor
         {
             this.Opacity = 1;
         }
-        
     }
 }

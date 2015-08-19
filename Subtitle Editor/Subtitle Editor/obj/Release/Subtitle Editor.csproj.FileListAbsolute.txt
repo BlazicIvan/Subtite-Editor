@@ -1,0 +1,8 @@
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\bin\Release\Subtitle Editor.exe.config
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\bin\Release\Subtitle Editor.exe
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\bin\Release\Subtitle Editor.pdb
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Release\Subtitle_Editor.mainForm.resources
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Release\Subtitle_Editor.Properties.Resources.resources
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Release\Subtitle Editor.csproj.GenerateResource.Cache
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Release\Subtitle Editor.exe
+D:\GitHub\Subtitle Editor\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Release\Subtitle Editor.pdb
