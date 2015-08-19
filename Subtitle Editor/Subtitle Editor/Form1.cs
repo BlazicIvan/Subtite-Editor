@@ -30,6 +30,7 @@ namespace Subtitle_Editor
 
         void SaveTempFile()
         {
+            DeleteTempFile();
             StreamWriter Temp;
             Temp = new StreamWriter("Temp", true, Encoding.Default);
             Temp.Write(previewBox.Text);
@@ -60,7 +61,6 @@ namespace Subtitle_Editor
                 previewBox.Text = Title.ReadToEnd();
                 StatusLabel.Text = Path.GetFileName(file_name);
                 Title.Close();
-                DeleteTempFile();
                 SaveTempFile();
                 previewBox.Enabled = true;
             }
@@ -111,7 +111,8 @@ namespace Subtitle_Editor
                 save_location = saveDialog.FileName;
                 if (save_location != "" && previewBox.Text != "")
                 {
-                    File.Copy("Temp", save_location);
+                    SaveTempFile();
+                    File.Copy("Temp", save_location,true);
                 }
             }
             else
