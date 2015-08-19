@@ -147,9 +147,9 @@
             this.StatusLabel.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.StatusLabel.Location = new System.Drawing.Point(12, 290);
             this.StatusLabel.Name = "StatusLabel";
-            this.StatusLabel.Size = new System.Drawing.Size(203, 15);
+            this.StatusLabel.Size = new System.Drawing.Size(210, 15);
             this.StatusLabel.TabIndex = 6;
-            this.StatusLabel.Text = "Dobrodošli u subtitle editor";
+            this.StatusLabel.Text = "Dobrodošli u subtitle editor.";
             // 
             // groupBox1
             // 
@@ -284,9 +284,10 @@
             // 
             // mainForm
             // 
+            this.AllowDrop = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Cyan;
+            this.BackColor = System.Drawing.Color.LightCyan;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(517, 314);
             this.Controls.Add(this.StatusLabel);
@@ -300,6 +301,10 @@
             this.Name = "mainForm";
             this.Text = "Subtitle Editor";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.mainForm_FormClosed);
+            this.DragDrop += new System.Windows.Forms.DragEventHandler(this.mainForm_DragDrop);
+            this.DragEnter += new System.Windows.Forms.DragEventHandler(this.mainForm_DragEnter);
+            this.DragLeave += new System.EventHandler(this.mainForm_DragLeave);
+            this.MouseEnter += new System.EventHandler(this.mainForm_MouseEnter);
             this.panel1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

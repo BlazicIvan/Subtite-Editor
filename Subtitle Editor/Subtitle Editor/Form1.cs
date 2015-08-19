@@ -19,6 +19,8 @@ namespace Subtitle_Editor
         public mainForm()
         {
             InitializeComponent();
+            this.DragDrop += mainForm_DragDrop;
+            this.DragEnter +=mainForm_DragEnter;
         }
 
         void ErrorOpen()
@@ -49,21 +51,24 @@ namespace Subtitle_Editor
             Temp.Close();
         }
 
-        private void btn_Open_Click(object sender, EventArgs e)
+        void Open(string file_name)
         {
-            string file_name = "";
             StreamReader Title;
-            openDialog.ShowDialog();
-            file_name = openDialog.FileName;
             if (file_name != "")
             {
-                Title = new StreamReader(file_name, Encoding.Default, true);             
-                previewBox.Text = Title.ReadToEnd();     
+                Title = new StreamReader(file_name, Encoding.Default, true);
+                previewBox.Text = Title.ReadToEnd();
                 StatusLabel.Text = Path.GetFileName(file_name);
                 Title.Close();
                 SaveTempFile();
                 previewBox.Enabled = true;
             }
+        }
+
+        private void btn_Open_Click(object sender, EventArgs e)
+        {
+            openDialog.ShowDialog();
+            Open(openDialog.FileName);
         }
 
 
@@ -155,6 +160,42 @@ namespace Subtitle_Editor
         private void mainForm_FormClosed(object sender, FormClosedEventArgs e)
         {
             DeleteTempFile();
+        }
+
+        private void mainForm_DragEnter(object sender, DragEventArgs e)
+        {
+            if (e.Data.GetDataPresent(DataFormats.FileDrop))
+            {
+                e.Effect = DragDropEffects.Copy;
+            }
+            else
+            {
+                e.Effect = DragDropEffects.None;
+            }
+            this.Opacity = 0.75;
+        }
+
+        private void mainForm_MouseEnter(object sender, EventArgs e)
+        {
+            if (previewBox.Enabled == false)
+            {
+                StatusLabel.Text = "Otvorite datoteku ili je prevucite u prozor.";
+            }
+        }
+
+        private void mainForm_DragDrop(object sender, DragEventArgs e)
+        {
+            this.Opacity = 1;
+            if (e.Data.GetDataPresent(DataFormats.FileDrop))
+            {
+                string[] filePaths = (string[])(e.Data.GetData(DataFormats.FileDrop));
+                Open(filePaths[0]);
+            }
+        }
+
+        private void mainForm_DragLeave(object sender, EventArgs e)
+        {
+            this.Opacity = 1;
         }
         
     }
