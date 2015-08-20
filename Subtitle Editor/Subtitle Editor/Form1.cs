@@ -135,6 +135,8 @@ namespace Subtitle_Editor
             output += secs.ToString() + "." + milsecs.ToString() + " " + file_name;
             ProcessStartInfo shifter = new ProcessStartInfo("Shifter", output);
             Process.Start(shifter);
+            int i;
+            for (i = 0; i < 100000000; i++);
             ReadTempFile();
         }
 

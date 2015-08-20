@@ -183,7 +183,7 @@
             // 
             this.msecs_btn.Location = new System.Drawing.Point(138, 127);
             this.msecs_btn.Maximum = new decimal(new int[] {
-            60,
+            999,
             0,
             0,
             0});

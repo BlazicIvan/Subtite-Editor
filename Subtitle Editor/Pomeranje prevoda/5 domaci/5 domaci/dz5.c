@@ -47,4 +47,5 @@ void main(int argc, char* argv[])
 
 	printf("\nObrada je uspesno zavrsena!\n\n");
 	system("PAUSE");
+	exit(0);
 }
