@@ -99,7 +99,6 @@ namespace Subtitle_Editor
             }
             else
                 ErrorOpen();
-           
         }
 
         private void btn_Save_Click(object sender, EventArgs e)
@@ -135,8 +134,7 @@ namespace Subtitle_Editor
             output += secs.ToString() + "." + milsecs.ToString() + " " + file_name;
             ProcessStartInfo shifter = new ProcessStartInfo("Shifter", output);
             Process.Start(shifter);
-            int i;
-            for (i = 0; i < 100000000; i++);
+            for (int i = 0; i < 100000000; i++);
             ReadTempFile();
         }
 
@@ -199,6 +197,19 @@ namespace Subtitle_Editor
         private void mainForm_DragLeave(object sender, EventArgs e)
         {
             this.Opacity = 1;
+        }
+
+
+        private void checkBox1_CheckedChanged_1(object sender, EventArgs e)
+        {
+            toolTip_Fast.Active = checkBox1.Checked;
+            toolTip_Slow.Active = checkBox1.Checked;
+        }
+
+        private void btn_About_Click(object sender, EventArgs e)
+        {
+            Form_About Frm = new Form_About();
+            Frm.ShowDialog();
         }
     }
 }
