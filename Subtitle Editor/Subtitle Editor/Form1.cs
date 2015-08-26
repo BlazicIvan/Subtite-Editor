@@ -121,6 +121,7 @@ namespace Subtitle_Editor
         private void shift(char direction)
         {
             string output = "";
+            string msc = "";
             if (direction == 'r')
                 output += '+';
             else
@@ -131,7 +132,12 @@ namespace Subtitle_Editor
             secs = secs_btn.Value;
             milsecs = msecs_btn.Value;
             secs += mins * 60;
-            output += secs.ToString() + "." + milsecs.ToString() + " " + file_name;
+            if (milsecs < 10)
+                msc += "0";
+            if (milsecs < 100)
+                msc += "0";
+            msc += milsecs.ToString();
+            output += secs.ToString() + "." + msc + " " + file_name;
             ProcessStartInfo shifter = new ProcessStartInfo("Shifter", output);
             Process.Start(shifter);
             for (int i = 0; i < 100000000; i++);
@@ -210,6 +216,11 @@ namespace Subtitle_Editor
         {
             Form_About Frm = new Form_About();
             Frm.ShowDialog();
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

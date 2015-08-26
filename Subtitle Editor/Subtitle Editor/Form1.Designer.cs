@@ -46,12 +46,12 @@
             this.mins_btn = new System.Windows.Forms.NumericUpDown();
             this.saveDialog = new System.Windows.Forms.SaveFileDialog();
             this.toolTip_Slow = new System.Windows.Forms.ToolTip(this.components);
+            this.btn_About = new System.Windows.Forms.Button();
+            this.previewBox = new System.Windows.Forms.RichTextBox();
             this.toolTip_Fast = new System.Windows.Forms.ToolTip(this.components);
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.StatusLabel = new System.Windows.Forms.Label();
-            this.btn_About = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.previewBox = new System.Windows.Forms.RichTextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.msecs_btn)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.secs_btn)).BeginInit();
@@ -144,6 +144,7 @@
             this.groupBox1.TabIndex = 5;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Obrada";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // label4
             // 
@@ -151,12 +152,12 @@
             this.label4.Location = new System.Drawing.Point(143, 124);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(47, 17);
-            this.label4.TabIndex = 12;
-            this.label4.Text = "milisec";
+            this.label4.TabIndex = 6;
+            this.label4.Text = "milisek";
+            this.toolTip_Fast.SetToolTip(this.label4, "Milisekunde");
             // 
             // msecs_btn
             // 
-            this.msecs_btn.DecimalPlaces = 3;
             this.msecs_btn.Location = new System.Drawing.Point(139, 99);
             this.msecs_btn.Maximum = new decimal(new int[] {
             999,
@@ -164,8 +165,9 @@
             0,
             0});
             this.msecs_btn.Name = "msecs_btn";
-            this.msecs_btn.Size = new System.Drawing.Size(54, 25);
+            this.msecs_btn.Size = new System.Drawing.Size(48, 25);
             this.msecs_btn.TabIndex = 11;
+            this.toolTip_Slow.SetToolTip(this.msecs_btn, "Milisekunde");
             // 
             // label3
             // 
@@ -174,7 +176,8 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(27, 17);
             this.label3.TabIndex = 10;
-            this.label3.Text = "sec";
+            this.label3.Text = "sek";
+            this.toolTip_Fast.SetToolTip(this.label3, "Sekunde");
             // 
             // label2
             // 
@@ -184,6 +187,7 @@
             this.label2.Size = new System.Drawing.Size(29, 17);
             this.label2.TabIndex = 10;
             this.label2.Text = "min";
+            this.toolTip_Fast.SetToolTip(this.label2, "Minuti");
             // 
             // label1
             // 
@@ -208,7 +212,7 @@
             this.shright.FlatAppearance.MouseOverBackColor = System.Drawing.Color.WhiteSmoke;
             this.shright.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.shright.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.shright.Location = new System.Drawing.Point(199, 95);
+            this.shright.Location = new System.Drawing.Point(193, 95);
             this.shright.Name = "shright";
             this.shright.Size = new System.Drawing.Size(45, 33);
             this.shright.TabIndex = 8;
@@ -247,14 +251,16 @@
             0});
             this.secs_btn.Name = "secs_btn";
             this.secs_btn.Size = new System.Drawing.Size(36, 25);
-            this.secs_btn.TabIndex = 7;
+            this.secs_btn.TabIndex = 5;
+            this.toolTip_Slow.SetToolTip(this.secs_btn, "Sekunde");
             // 
             // mins_btn
             // 
             this.mins_btn.Location = new System.Drawing.Point(60, 99);
             this.mins_btn.Name = "mins_btn";
             this.mins_btn.Size = new System.Drawing.Size(35, 25);
-            this.mins_btn.TabIndex = 6;
+            this.mins_btn.TabIndex = 4;
+            this.toolTip_Slow.SetToolTip(this.mins_btn, "Minuti");
             // 
             // saveDialog
             // 
@@ -270,6 +276,40 @@
             this.toolTip_Slow.ReshowDelay = 100;
             this.toolTip_Slow.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
             this.toolTip_Slow.ToolTipTitle = "Pomoć";
+            // 
+            // btn_About
+            // 
+            this.btn_About.BackColor = System.Drawing.Color.Transparent;
+            this.btn_About.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_About.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btn_About.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
+            this.btn_About.FlatAppearance.BorderSize = 0;
+            this.btn_About.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gainsboro;
+            this.btn_About.FlatAppearance.MouseOverBackColor = System.Drawing.Color.WhiteSmoke;
+            this.btn_About.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_About.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.btn_About.Location = new System.Drawing.Point(284, 94);
+            this.btn_About.Name = "btn_About";
+            this.btn_About.Size = new System.Drawing.Size(251, 37);
+            this.btn_About.TabIndex = 3;
+            this.btn_About.Text = "O programu";
+            this.toolTip_Slow.SetToolTip(this.btn_About, "Informacije oo programu.");
+            this.btn_About.UseVisualStyleBackColor = false;
+            this.btn_About.Click += new System.EventHandler(this.btn_About_Click);
+            // 
+            // previewBox
+            // 
+            this.previewBox.BackColor = System.Drawing.Color.White;
+            this.previewBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.previewBox.DetectUrls = false;
+            this.previewBox.Enabled = false;
+            this.previewBox.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.previewBox.Location = new System.Drawing.Point(3, 3);
+            this.previewBox.Name = "previewBox";
+            this.previewBox.Size = new System.Drawing.Size(252, 270);
+            this.previewBox.TabIndex = 0;
+            this.previewBox.Text = "";
+            this.toolTip_Slow.SetToolTip(this.previewBox, "Prikaz izmena u prevodu.");
             // 
             // toolTip_Fast
             // 
@@ -305,26 +345,6 @@
             this.StatusLabel.TabIndex = 9;
             this.StatusLabel.Text = "Dobrodošli u subtitle editor.";
             // 
-            // btn_About
-            // 
-            this.btn_About.BackColor = System.Drawing.Color.Transparent;
-            this.btn_About.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn_About.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btn_About.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
-            this.btn_About.FlatAppearance.BorderSize = 0;
-            this.btn_About.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gainsboro;
-            this.btn_About.FlatAppearance.MouseOverBackColor = System.Drawing.Color.WhiteSmoke;
-            this.btn_About.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_About.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.btn_About.Location = new System.Drawing.Point(284, 94);
-            this.btn_About.Name = "btn_About";
-            this.btn_About.Size = new System.Drawing.Size(251, 37);
-            this.btn_About.TabIndex = 11;
-            this.btn_About.Text = "O programu";
-            this.toolTip_Slow.SetToolTip(this.btn_About, "Čuvanje prevoda prikazanog sa leve strane u datoteku.");
-            this.btn_About.UseVisualStyleBackColor = false;
-            this.btn_About.Click += new System.EventHandler(this.btn_About_Click);
-            // 
             // panel1
             // 
             this.panel1.BackgroundImage = global::Subtitle_Editor.Properties.Resources._01;
@@ -334,20 +354,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(258, 276);
             this.panel1.TabIndex = 3;
-            // 
-            // previewBox
-            // 
-            this.previewBox.BackColor = System.Drawing.Color.White;
-            this.previewBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.previewBox.DetectUrls = false;
-            this.previewBox.Enabled = false;
-            this.previewBox.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.previewBox.Location = new System.Drawing.Point(3, 3);
-            this.previewBox.Name = "previewBox";
-            this.previewBox.Size = new System.Drawing.Size(252, 270);
-            this.previewBox.TabIndex = 0;
-            this.previewBox.Text = "";
-            this.toolTip_Slow.SetToolTip(this.previewBox, "Prikaz izmena u prevodu.");
             // 
             // mainForm
             // 
