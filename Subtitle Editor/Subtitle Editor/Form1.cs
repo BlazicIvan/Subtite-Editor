@@ -55,14 +55,26 @@ namespace Subtitle_Editor
         void Open(string file_name)
         {
             StreamReader Title;
+            string tipFajla;
             if (file_name != "")
             {
                 Title = new StreamReader(file_name, Encoding.Default, true);
-                previewBox.Text = Title.ReadToEnd();
                 StatusLabel.Text = Path.GetFileName(file_name);
-                Title.Close();
-                SaveTempFile();
-                previewBox.Enabled = true;
+                tipFajla = StatusLabel.Text.Substring(StatusLabel.Text.Length - 3);
+                if (tipFajla == "srt")
+                {
+                    previewBox.Text = Title.ReadToEnd();
+                    SaveTempFile();
+                    Title.Close();
+                    previewBox.Enabled = true;
+                }
+                else
+                {
+                    previewBox.Text = "";
+                    StatusLabel.Text = "Otvorite datoteku ili je prevucite u prozor.";
+                    MessageBox.Show("Nepravilan format titla, pokušajte ponovo!", "Greska");
+                    
+                }
             }
         }
 
