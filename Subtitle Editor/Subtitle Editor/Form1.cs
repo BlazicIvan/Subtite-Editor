@@ -19,8 +19,6 @@ namespace Subtitle_Editor
         public mainForm()
         {
             InitializeComponent();
-            this.DragDrop += mainForm_DragDrop;
-            this.DragEnter +=mainForm_DragEnter;
         }
 
         void ErrorOpen()
@@ -60,8 +58,8 @@ namespace Subtitle_Editor
             {
                 Title = new StreamReader(file_name, Encoding.Default, true);
                 StatusLabel.Text = Path.GetFileName(file_name);
-                tipFajla = StatusLabel.Text.Substring(StatusLabel.Text.Length - 3);
-                if (tipFajla == "srt")
+                tipFajla = Path.GetExtension(file_name);
+                if (tipFajla == ".srt")
                 {
                     previewBox.Text = Title.ReadToEnd();
                     SaveTempFile();
@@ -71,6 +69,7 @@ namespace Subtitle_Editor
                 else
                 {
                     previewBox.Text = "";
+                    previewBox.Enabled = false;
                     StatusLabel.Text = "Otvorite datoteku ili je prevucite u prozor.";
                     MessageBox.Show("Nepravilan format titla, pokušajte ponovo!", "Greska");
                     

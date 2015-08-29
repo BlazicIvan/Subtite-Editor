@@ -102,8 +102,8 @@
             // openDialog
             // 
             this.openDialog.AddExtension = false;
-            this.openDialog.DefaultExt = "Subtitle Files (*.srt)|*.srt|All files (*.*)|*.*";
-            this.openDialog.Filter = "Subtitle Files (*.srt)|*.srt|Text files (*.txt)|*.txt|All files (*.*)|*.*";
+            this.openDialog.DefaultExt = "Subtitle Files (*.srt)|*.srt";
+            this.openDialog.Filter = "Subtitle Files (*.srt)|*.srt";
             // 
             // btn_ASCII
             // 
