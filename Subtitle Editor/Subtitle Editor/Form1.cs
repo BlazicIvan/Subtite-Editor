@@ -21,9 +21,26 @@ namespace Subtitle_Editor
             InitializeComponent();
         }
 
+        void showError(string text)
+        {
+            MessageBox.Show(text, "Greška", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        }
+
         void ErrorOpen()
         {
-            MessageBox.Show("Otvorite titl datoteku!", "Greška");
+            showError("Otvorite titl datoteku!");
+        }
+
+        void askSave()
+        {
+            if (previewBox.Enabled)
+            {
+                DialogResult ask = MessageBox.Show("Da li želite da sačuvate izmene?", "Subtitle Editor", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (ask == DialogResult.Yes)
+                {
+                    btn_Save.PerformClick();
+                }
+            }
         }
 
         void SaveTempFile()
@@ -71,7 +88,7 @@ namespace Subtitle_Editor
                     previewBox.Text = "";
                     previewBox.Enabled = false;
                     StatusLabel.Text = "Otvorite datoteku ili je prevucite u prozor.";
-                    MessageBox.Show("Nepravilan format titla, pokušajte ponovo!", "Greska");
+                    showError("Nepravilan format titla, pokušajte ponovo!");
                     
                 }
             }
@@ -79,6 +96,7 @@ namespace Subtitle_Editor
 
         private void btn_Open_Click(object sender, EventArgs e)
         {
+            askSave();
             openDialog.ShowDialog();
             Open(openDialog.FileName);
         }
@@ -204,6 +222,7 @@ namespace Subtitle_Editor
         private void mainForm_DragDrop(object sender, DragEventArgs e)
         {
             this.Opacity = 1;
+            askSave();
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
                 string[] filePaths = (string[])(e.Data.GetData(DataFormats.FileDrop));
@@ -229,9 +248,10 @@ namespace Subtitle_Editor
             Frm.ShowDialog();
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
+        private void mainForm_FormClosing(object sender, FormClosingEventArgs e)
         {
-
+            askSave();
         }
+
     }
 }

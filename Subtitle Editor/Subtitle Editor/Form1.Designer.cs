@@ -144,7 +144,6 @@
             this.groupBox1.TabIndex = 5;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Obrada";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // label4
             // 
@@ -375,6 +374,7 @@
             this.MaximizeBox = false;
             this.Name = "mainForm";
             this.Text = "Subtitle Editor";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.mainForm_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.mainForm_FormClosed);
             this.DragDrop += new System.Windows.Forms.DragEventHandler(this.mainForm_DragDrop);
             this.DragEnter += new System.Windows.Forms.DragEventHandler(this.mainForm_DragEnter);
