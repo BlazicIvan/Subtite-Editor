@@ -38,3 +38,4 @@ C:\Users\Ivan\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\ob
 C:\Users\Ivan\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle_Editor.Form_About.resources
 C:\Users\Ivan\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle_Editor.Properties.Resources.resources
 C:\Users\Ivan\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle Editor.csproj.GenerateResource.Cache
+C:\Users\Milos\Documents\GitHub\Subtite-Editor\Subtitle Editor\Subtitle Editor\obj\Debug\Subtitle_Editor.Form_About.resources
