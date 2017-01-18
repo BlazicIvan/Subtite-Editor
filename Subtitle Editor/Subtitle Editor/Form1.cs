@@ -146,6 +146,65 @@ namespace Subtitle_Editor
                 ErrorOpen();
         }
 
+        private void ShiftFile(string TimeDisp)
+        {
+            string str = previewBox.Text;
+            string[] lines = str.Split('\n');
+            try
+            {
+                double disp = Convert.ToDouble(TimeDisp);
+                for (int i = 0; i < lines.Length; i++)
+                {
+                    if (lines[i].Length >= 29 && lines[i].Contains("-->"))
+                    {
+                        string l = lines[i];
+                        l = l.Replace(" --> ", ":");
+                       // l = l.Replace(",", ".");
+                        string[] parts = l.Split(':');
+                        int h1, m1, s1, ms1, h2, m2, s2, ms2;
+                        double NewTime1 = 0, NewTime2 = 0;
+                        NewTime1 = Convert.ToDouble(parts[0]);
+                        NewTime1 = NewTime1 * 60 + Convert.ToDouble(parts[1]);
+                        NewTime1 = NewTime1 * 60 + Convert.ToDouble(parts[2]);
+                        NewTime2 = Convert.ToDouble(parts[3]);
+                        NewTime2 = NewTime2 * 60 + Convert.ToDouble(parts[4]);
+                        NewTime2 = NewTime2 * 60 + Convert.ToDouble(parts[5]);
+                        NewTime1 += disp;
+                        NewTime2 += disp;
+
+                        if (NewTime1 < 0)
+                            NewTime1 = 0;
+
+                        if (NewTime2 < 0)
+                            NewTime2 = 0;
+
+                        h1 = (int)(Math.Floor(NewTime1) / 3600);
+                        h2 = (int)(Math.Floor(NewTime2) / 3600);
+                        m1 = (int)(Math.Floor(NewTime1 - 3600 * h1) / 60);
+                        m2 = (int)(Math.Floor(NewTime2 - 3600 * h2) / 60);
+                        NewTime1 = NewTime1 - 3600 * h1 - 60 * m1;
+                        NewTime2 = NewTime2 - 3600 * h2 - 60 * m2;
+                        s1 = (int)Math.Floor(NewTime1);
+                        s2 = (int)Math.Floor(NewTime2);
+                        ms1 = (int)Math.Round(1000 * (NewTime1 - Math.Floor(NewTime1)));
+                        ms2 = (int)Math.Round(1000 * (NewTime2 - Math.Floor(NewTime2)));
+
+                        l = String.Format("{0:D2}:{1:D2}:{2:D2},{3:D3} --> {4:D2}:{5:D2}:{6:D2},{7:D3}", h1, m1, s1, ms1, h2, m2, s2, ms2);
+                        lines[i] = l;
+                    }
+                }
+            }
+            catch (Exception e) { }
+
+            DeleteTempFile();
+            StreamWriter Temp;
+            Temp = new StreamWriter("Temp", true, Encoding.UTF8);
+            foreach (string l in lines)
+                Temp.Write(l + "\n");
+            Temp.Close();
+
+        }
+
         private void shift(char direction)
         {
             string output = "";
@@ -165,10 +224,18 @@ namespace Subtitle_Editor
             if (milsecs < 100)
                 msc += "0";
             msc += milsecs.ToString();
-            output += secs.ToString() + "." + msc + " " + file_name;
+            // output += secs.ToString() + "." + msc + " " + file_name;
+
+            output += secs.ToString() + "," + msc;
+
+            /*
             ProcessStartInfo shifter = new ProcessStartInfo("Shifter", output);
             Process.Start(shifter);
             for (int i = 0; i < 100000000; i++);
+            */
+
+            ShiftFile(output);
+
             ReadTempFile();
         }
 
