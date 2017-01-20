@@ -15,6 +15,9 @@ namespace Subtitle_Editor
 {
     public partial class mainForm : Form
     {
+        string FileName;
+        bool IsSaved = true;
+
         public mainForm()
         {
             InitializeComponent();
@@ -32,7 +35,7 @@ namespace Subtitle_Editor
 
         void askSave()
         {
-            if (previewBox.Enabled)
+            if (previewBox.Enabled && IsSaved == false)
             {
                 DialogResult ask = MessageBox.Show("Da li želite da sačuvate izmene?", "Subtitle Editor", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (ask == DialogResult.Yes)
@@ -61,13 +64,17 @@ namespace Subtitle_Editor
 
         void ReadTempFile()
         {
-            StreamReader Temp = new StreamReader("Temp",Encoding.Default);
-            previewBox.Text = Temp.ReadToEnd();
-            Temp.Close();
+            if (File.Exists("Temp"))
+            {
+                StreamReader Temp = new StreamReader("Temp", Encoding.Default, true);
+                previewBox.Text = Temp.ReadToEnd();
+                Temp.Close();
+            }
         }
 
         void Open(string file_name)
         {
+            askSave();
             StreamReader Title;
             string tipFajla;
             if (file_name != "")
@@ -78,9 +85,11 @@ namespace Subtitle_Editor
                 if (tipFajla == ".srt")
                 {
                     previewBox.Text = Title.ReadToEnd();
-                    SaveTempFile();
+                    //SaveTempFile();
                     Title.Close();
                     previewBox.Enabled = true;
+                    IsSaved = true;
+                    FileName = file_name;
                 }
                 else
                 {
@@ -95,7 +104,6 @@ namespace Subtitle_Editor
 
         private void btn_Open_Click(object sender, EventArgs e)
         {
-            askSave();
             openDialog.ShowDialog();
             Open(openDialog.FileName);
         }
@@ -123,7 +131,8 @@ namespace Subtitle_Editor
                 text = text.Replace('ž', 'z');
 
                 previewBox.Text = text;
-                SaveTempFile();
+                IsSaved = false;
+                //SaveTempFile();
             }
             else
                 ErrorOpen();
@@ -134,19 +143,22 @@ namespace Subtitle_Editor
             if (previewBox.Enabled == true)
             {
                 string save_location = "";
+                saveDialog.FileName = FileName;
                 saveDialog.ShowDialog();
                 save_location = saveDialog.FileName;
                 if (save_location != "" && previewBox.Text != "")
                 {
                     SaveTempFile();
                     File.Copy("Temp", save_location,true);
+                    DeleteTempFile();
+                    IsSaved = true;
                 }
             }
             else
                 ErrorOpen();
         }
 
-        private void ShiftFile(string TimeDisp)
+        private void ShiftSubtitle(string TimeDisp)
         {
             string str = previewBox.Text;
             string[] lines = str.Split('\n');
@@ -196,12 +208,19 @@ namespace Subtitle_Editor
             }
             catch (Exception e) { }
 
+            /*
             DeleteTempFile();
             StreamWriter Temp;
             Temp = new StreamWriter("Temp", true, Encoding.UTF8);
             foreach (string l in lines)
                 Temp.Write(l + "\n");
             Temp.Close();
+            */
+
+            StringBuilder sb = new StringBuilder();
+            foreach (string l in lines)
+                sb.Append(l + "\n");
+            previewBox.Text = Convert.ToString(sb);
 
         }
 
@@ -214,7 +233,7 @@ namespace Subtitle_Editor
             else
                 output += '-';
             decimal mins, secs, milsecs;
-            string file_name = "Temp";
+            //string file_name = "Temp";
             mins = mins_btn.Value;
             secs = secs_btn.Value;
             milsecs = msecs_btn.Value;
@@ -234,9 +253,11 @@ namespace Subtitle_Editor
             for (int i = 0; i < 100000000; i++);
             */
 
-            ShiftFile(output);
+            ShiftSubtitle(output);
 
-            ReadTempFile();
+            IsSaved = false;
+
+            //ReadTempFile();
         }
 
         private void shright_Click(object sender, EventArgs e)
